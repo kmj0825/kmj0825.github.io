@@ -29,7 +29,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: min_juuuuuuuun
 github_username:  kmj0825
-
+repo: kmj0825.github.io
 # Build settings
 theme: minima
 plugins:
